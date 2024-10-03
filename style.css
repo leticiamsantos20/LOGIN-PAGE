@@ -23,6 +23,7 @@ body {
     color: #ffffff;
     padding: 30px 40px;
     box-shadow: (0, 0, 0, .2);
+    backdrop-filter: blur(20px);
 }
 
 .container h1 {
